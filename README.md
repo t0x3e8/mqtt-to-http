@@ -6,7 +6,7 @@ This repository contains a Python script that acts as a bridge, forwarding MQTT 
 To use this script, follow these steps:
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/mqtt-to-http-bridge.git
+git clone https://github.com/t0x3e8/mqtt-to-http.git
 ```
 2. Create an `.env` file in the project directory with your configuration settings. Use the provided `.env.example` as a template and replace the placeholder values with your specific settings.
 3. Build the Docker image:
